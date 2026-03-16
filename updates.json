@@ -1,1 +1,18 @@
-[{"id":1,"title":"الإصدار الأول","description":"إصدار تطبيق صلاتك الأول مع كافة الميزات الأساسية","version":"1.0","apk_url":"","date":"2026-03-16"}]
+[
+  {
+    "id": 1,
+    "title": "الإصدار الأول",
+    "description": "إصدار تطبيق صلاتك الأول مع كافة الميزات الأساسية",
+    "version": "1.0",
+    "apk_url": "",
+    "date": "2026-03-16"
+  },
+  {
+    "id": 2,
+    "title": "صلاتك",
+    "description": "اصلاحات والحادثات",
+    "version": "اربعه نقطه واحد",
+    "apk_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/releases\/salatak_vاربعه نقطه واحد.apk",
+    "date": "٢٠٢٦-٠٣-١٦"
+  }
+]
