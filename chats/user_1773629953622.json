@@ -6,5 +6,12 @@
     "type": "audio",
     "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773629953622\/voice_1773629976069.m4a",
     "timestamp": "٢٠٢٦-٠٣-١٦ ٠٤:٥٩:٣٧"
+  },
+  {
+    "from": "admin",
+    "username": "المسؤول",
+    "text": "ما هي مشكلتك",
+    "type": "text",
+    "timestamp": "٢٠٢٦-٠٣-١٦ ٠٥:٠٠:١٣"
   }
 ]
