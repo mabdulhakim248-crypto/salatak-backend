@@ -30,5 +30,13 @@
     "type": "audio",
     "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773674107266\/voice_1773674146603.m4a",
     "timestamp": "٢٠٢٦-٠٣-١٦ ١٨:١٥:٥٣"
+  },
+  {
+    "from": "admin",
+    "username": "المسؤول",
+    "text": "رسالة صوتية",
+    "type": "audio",
+    "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773674107266\/admin_voice_1773645817024.m4a",
+    "timestamp": "٢٠٢٦-٠٣-١٦ ٠٩:٢٣:٣٩"
   }
 ]
