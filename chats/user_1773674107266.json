@@ -38,5 +38,12 @@
     "type": "audio",
     "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773674107266\/admin_voice_1773645817024.m4a",
     "timestamp": "٢٠٢٦-٠٣-١٦ ٠٩:٢٣:٣٩"
+  },
+  {
+    "from": "admin",
+    "username": "المسؤول",
+    "text": "هلا بيك",
+    "type": "text",
+    "timestamp": "٢٠٢٦-٠٣-١٦ ٠٩:٢٣:٤٧"
   }
 ]
