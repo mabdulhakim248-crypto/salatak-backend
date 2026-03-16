@@ -6,5 +6,13 @@
     "type": "audio",
     "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773674582209\/voice_1773674595701.m4a",
     "timestamp": "٢٠٢٦-٠٣-١٦ ١٨:٢٣:١٨"
+  },
+  {
+    "from": "user",
+    "username": "the ghost",
+    "text": "رسالة صوتية",
+    "type": "audio",
+    "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773674582209\/voice_1773674605946.m4a",
+    "timestamp": "٢٠٢٦-٠٣-١٦ ١٨:٢٣:٢٨"
   }
 ]
