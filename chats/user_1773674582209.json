@@ -37,5 +37,13 @@
     "text": "حاضر عميلون العزيز",
     "type": "text",
     "timestamp": "٢٠٢٦-٠٣-١٦ ١٧:٢٩:٠٩"
+  },
+  {
+    "from": "admin",
+    "username": "المسؤول",
+    "text": "رسالة صوتية",
+    "type": "audio",
+    "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773674582209\/admin_voice_1773674958862.m4a",
+    "timestamp": "٢٠٢٦-٠٣-١٦ ١٧:٢٩:٢٠"
   }
 ]
