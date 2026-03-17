@@ -104,5 +104,12 @@
     "type": "audio",
     "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773674107266\/admin_voice_1773674695943.m4a",
     "timestamp": "٢٠٢٦-٠٣-١٦ ١٧:٢٤:٥٨"
+  },
+  {
+    "from": "user",
+    "username": "عمك",
+    "text": "أنا عمك",
+    "type": "text",
+    "timestamp": "٢٠٢٦-٠٣-١٧ ٠٧:٢٧:١٩"
   }
 ]
