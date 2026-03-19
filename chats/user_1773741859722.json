@@ -28,5 +28,13 @@
     "text": "GeminiGeminiGeminiGeminiGeminiGeminiGeminiGeminiGemini",
     "type": "text",
     "timestamp": "٢٠٢٦-٠٣-١٩ ١١:١٥:٢٧"
+  },
+  {
+    "from": "user",
+    "username": "hhghhhhhhhhh",
+    "text": "رسالة صوتية",
+    "type": "audio",
+    "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1773741859722\/voice_1773947570038.m4a",
+    "timestamp": "٢٠٢٦-٠٣-١٩ ٢١:١٢:٥١"
   }
 ]
