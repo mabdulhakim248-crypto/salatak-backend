@@ -20,5 +20,12 @@
     "type": "audio",
     "audio_url": "https:\/\/raw.githubusercontent.com\/mabdulhakim248-crypto\/salatak-backend\/main\/media\/user_1774348837109\/voice_1774492370352.m4a",
     "timestamp": "٢٠٢٦-٠٣-٢٦ ٠٤:٣٢:٥٢"
+  },
+  {
+    "from": "admin",
+    "username": "المسؤول",
+    "text": "نعم",
+    "type": "text",
+    "timestamp": "٢٠٢٦-٠٣-٢٨ ٢٣:١٦:٣٦"
   }
 ]
